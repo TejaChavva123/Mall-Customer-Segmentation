@@ -28,5 +28,9 @@
   ![at k =3](https://user-images.githubusercontent.com/83270390/136739339-0f819ab9-eb6e-4c11-9174-0b964be1fc38.png)
 # At K = 5 :
   ![k = 5](https://user-images.githubusercontent.com/83270390/136739387-05092553-a160-411c-80e6-bd7e967b46de.png)
-
   
+# Elbow plot :
+  ![elbow plot](https://user-images.githubusercontent.com/83270390/136739623-0f6dc830-c87b-4a97-be14-2871e922d529.png)
+  
+
+**Therefore we can say that it K=5 is best of all**
